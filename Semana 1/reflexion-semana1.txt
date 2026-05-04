@@ -1,0 +1,5 @@
+El uso responsable de la información en internet es la base de una ciudadanía digital sana, ya que evita la desinformación y fomenta un entorno de confianza. Al verificar lo que compartimos, ejercemos una participación ciudadana consciente que fortalece la democracia y el debate público. 
+
+Por otro lado, la organización del trabajo técnico mediante herramientas como Git traslada esa misma responsabilidad al desarrollo de software. Git permite mantener un registro transparente, ordenado y veraz de los cambios en un proyecto, asegurando que la información técnica sea trazable y colaborativa. 
+
+En conjunto, estos elementos demuestran que tanto en lo social como en lo técnico, la integridad y el orden de los datos son fundamentales para el progreso colectivo.
