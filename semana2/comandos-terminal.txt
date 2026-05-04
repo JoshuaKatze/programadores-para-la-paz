@@ -1,0 +1,23 @@
+Durante la actividad use
+
+cd
+
+git
+
+	init
+
+	push
+
+	branch
+
+	commit
+
+	status
+
+	add	
+
+	git
+
+
+
+Preferi crear los archivos desde VS Code, comodidad
