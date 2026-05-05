@@ -1,0 +1,25 @@
+- EXPLICACION DE CONCEPTOS -
+
+Repositorio -------------------------------------------
+
+Un Repositorio es aquel lugar que nos ayuda a organizar los archivos de nuestro proyecto, existen dos tipos de Repositorio.
+
+Repositorio local: se le conoce como la carpeta que tenemos en nuestro dispositivo en la cual trabajamos de forma local, tiene un gran riesgo y es que se corre
+el riesgo de perderlo en caso de falla del dispositivo, esto se puede resolver facilmente con el otro tipo de Repositorio.
+
+Repositorio remoto: aquellos repositorios ubicados ya no en un dispositivo local, si no en un servidor, se suele usar github para este fin, ya no sufre el riesgo
+de perdida como pasaba con el anterior.
+
+
+Commit -------------------------------------------
+
+Un Commit es un comando de git que tiene como uso registrar los cambios que se hallan hecho en el repositorio, esto con el fin de llevar un mejor orden en el
+proyecto, este comando es necesario usarlo antes de usar un "push".
+
+Un commit tiene que ir acompañado de un mensaje descriptivo, investigando estos tienen sus propias normas (Conventional Commits), esto es necesario para saber
+que cambios exactos se hicieron.
+
+Push -------------------------------------------
+
+Un Push es un comando de git que sigue el orden logico de: add, commit, push.
+Push tiene como funcion subir los cambios realizados en el repositorio local al repositorio remoto, usualmente github.
