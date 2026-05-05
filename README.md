@@ -1,5 +1,3 @@
-readme_content = """# Repositorio de Actividades y Tareas -
-
 Este repositorio contiene el progreso académico, ejercicios de lógica y proyectos desarrollados durante mi proceso de formación. Aquí se encuentran documentadas las reflexiones semanales, retos de programación entre otros.
 
 ## 📌 Contenido del Repositorio
