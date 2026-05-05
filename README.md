@@ -16,6 +16,3 @@ El repositorio está organizado por semanas o módulos temáticos, incluyendo:
 ---
 *Mantenido por Joshua Fernandez.*
 """
-
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(readme_content)
