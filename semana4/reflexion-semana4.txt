@@ -1,0 +1,7 @@
+Construir herramientas tecnológicas propias con tecnologías abiertas como Node.js permite a las comunidades e iniciativas ciudadanas tener total autonomía y 
+control sobre sus datos y plataformas. Al no depender de grandes corporaciones de software ni de licencias costosas, los proyectos locales pueden adaptarse de 
+forma flexible a las necesidades reales del territorio, ya sea para coordinar la recepción de propuestas o emitir alertas comunitarias. La naturaleza de código 
+abierto de Node.js fomenta el aprendizaje colaborativo, permitiendo que jóvenes desarrolladores se capaciten y aporten directamente al crecimiento de su entorno. 
+Además, tener una infraestructura propia garantiza la transparencia y la soberanía digital, evitando la manipulación algorítmica externa que suele priorizar el 
+negocio sobre el bienestar social. En última instancia, programar bajo este enfoque convierte a la tecnología en un bien común que fortalece la participación 
+democrática, la confianza del barrio y la construcción de una sólida cultura de paz.
