@@ -1,0 +1,10 @@
+Pruebas de rutas del servidor - Semana 5
+
+1. Ruta http://localhost:3000
+Al ingresar a esta ruta, el navegador muestra el texto "Servidor activo". Esto ocurre porque es la ruta principal o raíz ('/') y confirma que nuestro servidor Node.js y Express está encendido y escuchando peticiones correctamente.
+
+2. Ruta http://localhost:3000/saludo
+El navegador muestra el texto "Hola comunidad". Esto indica que el servidor interpretó correctamente la ruta específica '/saludo' y devolvió la respuesta estática que programamos para esa dirección.
+
+3. Ruta http://localhost:3000/mensaje/juan
+El navegador muestra el texto "Hola juan". Aquí comprobamos que Express puede manejar parámetros dinámicos en la URL (la variable :nombre). El servidor captura la palabra "juan" de la URL y la concatena en su respuesta, lo que hace que la ruta sea dinámica y reutilizable con cualquier otro nombre.

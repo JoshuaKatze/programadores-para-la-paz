@@ -1,0 +1,8 @@
+Las APIs son herramientas fundamentales para potenciar la organización comunitaria, ya que actúan como un puente directo entre 
+las necesidades de los vecinos y un sistema centralizado. A través de rutas bien definidas, una comunidad puede utilizar peticiones 
+GET para consultar alertas, calendarios o eventos de forma instantánea y transparente. Simultáneamente, mediante rutas POST, los 
+vecinos pueden enviar reportes de incidentes, sugerencias o quejas de forma estructurada, superando el desorden de los grupos de 
+mensajería tradicional. Esta arquitectura garantiza que la información viaje en formatos universales como JSON, facilitando la 
+moderación editorial y la revisión por parte de los líderes. En definitiva, implementar una API propia empodera la participación 
+ciudadana, fomenta la resolución ágil de problemas y fortalece la confianza, pilares clave para construir una sólida cultura de 
+paz en nuestro entorno.

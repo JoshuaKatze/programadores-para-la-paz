@@ -1,0 +1,7 @@
+Conceptos API - Ruta POST /reporte
+
+1. ¿Qué hace esta ruta?
+Esta ruta está configurada para escuchar peticiones de tipo POST (que sirven para enviar datos al servidor) en la dirección '/reporte'. Toma el dato "mensaje" que el usuario envía oculto en el cuerpo (body) de la solicitud mediante `req.body.mensaje`, y luego responde devolviendo un objeto en formato JSON. Este JSON le confirma al cliente que el "estado" es "Reporte recibido" y le hace eco del mensaje original.
+
+2. ¿Para qué podría servir en una aplicación comunitaria?
+Sería fundamental para que los miembros de la comunidad puedan enviar información desde la página web hacia la base de datos central. Por ejemplo, los vecinos podrían llenar un formulario web reportando una luminaria dañada, un problema de seguridad o enviando una propuesta ciudadana. Al ser una petición POST, los datos viajan de manera estructurada y segura, permitiendo que el comité organizador reciba los reportes, los registre y gestione las soluciones sin que la información se pierda en cadenas de chat informales.
