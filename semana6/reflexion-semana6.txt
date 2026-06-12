@@ -1,0 +1,25 @@
+REFLEXIÓN SEMANA 6
+==================
+¿Por qué es importante que las plataformas tecnológicas puedan recibir
+reportes o información enviada por los ciudadanos de forma estructurada?
+ 
+Que los ciudadanos puedan enviar información de forma estructurada a las
+plataformas tecnológicas es fundamental para construir comunidades más
+organizadas y eficientes. Cuando los datos llegan en un formato definido,
+como JSON, los sistemas pueden procesarlos automáticamente sin necesidad
+de interpretación manual, lo que reduce errores y ahorra tiempo.
+ 
+Además, la información estructurada permite clasificar, filtrar y priorizar
+los reportes con mayor facilidad. Por ejemplo, una alcaldía puede separar
+automáticamente incidencias de iluminación, vías o salubridad, y asignarlas
+al área correspondiente sin intervención humana.
+ 
+Desde el punto de vista ciudadano, contar con canales digitales estructurados
+democratiza la participación: cualquier persona puede reportar un problema
+desde su celular en segundos, sin trámites presenciales. Esto genera mayor
+confianza en las instituciones y fomenta una cultura de colaboración entre
+la comunidad y el Estado.
+ 
+En conclusión, las APIs que reciben datos estructurados son la base técnica
+de los gobiernos digitales modernos, donde la tecnología sirve como puente
+entre los ciudadanos y las soluciones que necesitan.

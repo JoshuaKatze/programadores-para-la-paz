@@ -1,0 +1,33 @@
+EJEMPLO DE JSON PARA REPORTAR UNA INCIDENCIA
+=============================================
+ 
+URL: http://localhost:3000/incidencia
+Método: POST
+Headers: Content-Type: application/json
+ 
+JSON enviado por el ciudadano:
+{
+  "tipo": "Iluminación pública",
+  "descripcion": "La comunidad reporta que una lámpara del parque no funciona desde hace varios días."
+}
+ 
+Respuesta del servidor:
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "Iluminación pública",
+  "descripcion": "La comunidad reporta que una lámpara del parque no funciona desde hace varios días."
+}
+ 
+Otros ejemplos de incidencias que un ciudadano podría reportar:
+ 
+1. Bache en la vía:
+{
+  "tipo": "Vías y transporte",
+  "descripcion": "Existe un bache profundo en la carrera 5 con calle 12 que representa peligro para motociclistas."
+}
+ 
+2. Acumulación de basura:
+{
+  "tipo": "Aseo y salubridad",
+  "descripcion": "Hay acumulación de basuras en la esquina del barrio desde hace tres días sin recolección."
+}

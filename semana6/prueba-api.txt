@@ -1,0 +1,32 @@
+
+Prueba api · TXT
+PRUEBA DE LA RUTA POST /registro
+=================================
+ 
+Herramienta utilizada: Postman / Thunder Client
+URL: http://localhost:3000/registro
+Método: POST
+Headers: Content-Type: application/json
+ 
+JSON enviado:
+{
+  "nombre": "Joshua",
+  "mensaje": "Hola comunidad"
+}
+ 
+Respuesta del servidor:
+{
+  "estado": "Datos recibidos",
+  "nombre": "Joshua",
+  "mensaje": "Hola comunidad"
+}
+ 
+Explicación:
+El servidor recibe la petición POST en la ruta /registro.
+Gracias al middleware express.json(), Express puede leer el
+cuerpo de la petición y almacenarlo en req.body.
+Luego extrae req.body.nombre y req.body.mensaje, y los
+devuelve en un objeto JSON como respuesta al cliente.
+Esto confirma que los datos viajaron correctamente desde
+el cliente hasta el servidor.
+ 
